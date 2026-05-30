@@ -1,5 +1,7 @@
 # 👁️ AI-OCR Master Pack
 
+![AI-OCRシステム：画像・PDFのデータ化を完全自動化](banner.png)
+
 画像やPDFから文字を自動で抽出し、テキスト化するPython製OCRツールです。Tesseract OCRエンジンと組み合わせて、日本語・英語の文字認識に対応しています。
 
 ## 概要 / Overview
